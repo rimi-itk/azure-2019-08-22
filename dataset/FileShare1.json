@@ -1,0 +1,12 @@
+{
+	"name": "FileShare1",
+	"properties": {
+		"annotations": [],
+		"type": "FileShare",
+		"typeProperties": {
+			"format": {
+				"type": "JsonFormat"
+			}
+		}
+	}
+}
